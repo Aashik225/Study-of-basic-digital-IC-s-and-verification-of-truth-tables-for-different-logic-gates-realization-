@@ -98,5 +98,6 @@ endmodule
 
 ![imgae](https://raw.githubusercontent.com/Aashik225/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/main/Screenshot%202024-01-01%20210837.png)
 
-Result:
+## Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
